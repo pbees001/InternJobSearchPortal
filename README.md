@@ -12,6 +12,8 @@ Frontend: HTML, CSS, Javascript
 Backend: PHP
 Database Mysql
 
-Scraping codes, Data has been added to this repository. A sample sql dump (finaldb.sql) can also be found.
+Data can be found at https://drive.google.com/drive/folders/1xjSM85NDJyLOgzdCyr2WFU5xpSqQOO1A?usp=sharing
+
+Scraping codes has been added to this repository. A sample sql dump (finaldb.sql) can also be found.
 
 For any queries, contact priyatham.beesipogu@gmail.com
